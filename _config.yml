@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Mathematics at University of Pavia and Reasearcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"
   location         : "Pavia, Italy"
-  employer         : "Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo"
+  employer         : "University of Pavia"
   uri              : # URL
   email            : "eddysntn@gmail.com" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "edward-f-buccieri"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
