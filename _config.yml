@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pro_pic.jpg"
+  avatar           : "https://edward-f-buccieri.github.io/files/pro_pic.jpg"
   name             : "Edward Francisco Buccieri"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Mathematics at University of Pavia and Reasearcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"
