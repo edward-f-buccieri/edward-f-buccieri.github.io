@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Edward Francisco Buccieri"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Edward Francisco Buccieri"
 description              : &description "Master's student in Mathematics at University of Pavia and Researcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"   # Update this with a general description of your site, this is the default if not overridden by a page
