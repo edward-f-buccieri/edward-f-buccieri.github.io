@@ -18,12 +18,6 @@ Work experience
 ======
 * June 2024 - Present: Researcher
   * Centre for Inherited Cardiovascular Diseases - Fondazione IRCCS Policlinico San Matteo (Pavia)
-
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Talks
 ======
@@ -31,9 +25,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
