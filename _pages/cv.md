@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mathematics, University of Pavia, July 2026 (Expected)
-* B.S. in Mathematics, University of Milano-Bicocca, November 2023
+* MSc in Mathematics, University of Pavia, July 2026 (Expected).
+* BSc in Mathematics, University of Milano-Bicocca, November 2023.
 
 Work Experience
 ======
@@ -28,10 +28,12 @@ Summer Schools and Workshops
 * Theoretical Foundations of Machine Learning (TFML2025) - 23-27 June 2025
   * MalGa Center, University of Genoa
 
-Talks
+Talks & Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* A comparative deep learning approach using foundation models for identification of acute cellular rejection in endomyocardial biopsies of heart transplant recipients - ESC Congress, August 2026, Munich. (Poster)
+* A Novel AI-Based Digital Pathology Pipeline for Acute Cellular Rejection Assessment in Endomyocardial Biopsies from heart transplanted patients - Conoscere e Curare il Cuore (CCC), March 2026, Florence. (Oral Presentation)
+* AI‑Based Identification of Acute Cellular Rejection in Digital Pathology Images of Endomyocardial Biopsies from heart transplanted
+patients - ESC Congress, August 2025, Madrid. (Poster)
+
   
   
