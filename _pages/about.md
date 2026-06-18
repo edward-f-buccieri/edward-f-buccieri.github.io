@@ -15,12 +15,8 @@ Currently, I am completing my master's thesis about Wasserstein Gradient Flows a
 
 Featured Work
 ======
-
+Coming soon
 
 News
-------
-
-
-For more info
-------
-
+======
+June 2026 - Working on the numerical experiments for my thesis
