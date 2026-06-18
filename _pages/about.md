@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Edward Francisco Buccieri"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,19 +13,11 @@ I am a Master's student in Mathematics at University of Pavia and a Researcher a
 
 Currently, I am completing my master's thesis about Wasserstein Gradient Flows applied to the training of shallow neural networks in the infinite-width regime. During my PhD, I would like to explore more applications of Wasserstein Gradient Flows in Machine Learning.  
 
-Getting started
+Featured Work
 ======
 
 
-Site-wide configuration
-------
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-How to edit your site's GitHub repository
+News
 ------
 
 
