@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Edward Francisco Buccieri"
-description              : &description "Master's student in Mathematics at University of Pavia and Researcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "M.Sc. Mathematician from University of Pavia and Deep Learning Researcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://edward-f-buccieri.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                                # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "https://edward-f-buccieri.github.io/files/pro_pic.jpg"
   name             : "Edward Francisco Buccieri"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in Mathematics at University of Pavia and Researcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"
+  bio              : "M.Sc. Mathematician from University of Pavia and Deep Learning Researcher at the Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo (Pavia)"
   location         : "Pavia, Italy"
-  employer         : "University of Pavia"
+  employer         : "Centre for Inherited Cardiovascular Diseases - Fondazione I.R.C.C.S. Policlinico San Matteo"
   uri              : # URL
   email            : "eddysntn@gmail.com" 
 
