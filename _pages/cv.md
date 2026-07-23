@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center">
+  <a href="/files/Buccieri_CV_23_07_2026.pdf" target="_blank" style="padding: 10px 20px; background-color: #000050; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    📄 Download Full CV (PDF)
+  </a>
+</p>
+
 Education
 ======
 * **M.Sc. in Mathematics**, Università degli Studi di Pavia, July 2026
