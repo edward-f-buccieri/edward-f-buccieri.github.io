@@ -15,7 +15,10 @@ I recently completed my master's thesis on Gradient Flows and Optimal Transport 
 
 Featured Work
 ======
-Coming soon
+
+* **[Master's Thesis Simulations: Gradient Flows and Optimal Transport in Neural Network Training](https://github.com/edward-f-buccieri/master-thesis-math-2026-buccieri/tree/main)**
+  This repository contains the source code and numerical experiments from my master's thesis. It includes the implementation of the JKO scheme via the Sinkhorn algorithm and particle gradient flows to simulate the training dynamics of shallow neural networks in the infinite-width regime. 
+  [<ins>View repository on GitHub</ins>](https://github.com/edward-f-buccieri/master-thesis-math-2026-buccieri/tree/main)
 
 News
 ======
